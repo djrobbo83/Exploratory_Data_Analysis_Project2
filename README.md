@@ -1,5 +1,6 @@
 # Exploratory_Data_Analysis_Project2
 This Repository contains code for all 6 of the plots in Project 2 of Coursera Explanatory Data Analysis Course, project 2.
+link: https://www.coursera.org/learn/exploratory-data-analysis/peer/b5Ecl/course-project-2
 
 ## Instructions:
 1. Download data from: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
