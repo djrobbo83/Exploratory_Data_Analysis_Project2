@@ -9,3 +9,4 @@ This Repository contains code for all 6 of the plots in Project 2 of Coursera Ex
 5. Packages used, which you may need to install:
    1. ggplot2
    1. ggrepel
+6. Each one of these .R files will create a .png file named plot_x_.png in your working directory. If you would rather view these in your R plotting window then comment out the lines begining with "png(... " & "dev.off"
